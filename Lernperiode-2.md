@@ -6,19 +6,23 @@ Name: Helin Coban
 ## Grob-Planung
 ### Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Da ich nch keine Noten an der Berufschule habe kann ich dazu noch nicht viel sagen.
+
+Da ich ich keine Noten an der Berufschule habe kann ich dazu noch nicht viel sagen.
 
 ### Veränderungen
 Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+
 Einbischen mehr konzentrierter arbeiten und Schneller voran gehen.
 
 ### Projekte / neue Technologien
 Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+
 Ich will die Programmier Sprache C# genauer anschauen. Wir haben im Modul 319 damit schon angefangen über die Grundlagen von C# uns mit auseinander zu setzen und ich will dann 
 dem entsprechend tiefer hineintauchen und mir das Programmieren viel einfacher und klarer machen.
 
 ### Generelle Ziele
 Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+
 Hoffentlich das ich mich mit der Proggrammiersprache sehr gut auskenne oder mit guten Noten.
 
 ## Feinplanung
@@ -36,6 +40,7 @@ aber das kann ich mir dann auch zuhause anschauen aber an sonsten ist alles so w
 
 ## Planung 24.10.2025
 3 bis 5 klar messbare Arbeitspakete.
+
 - [x] C# unklare sachen nochmal üben
 - [x] Codes üben entsprechend
 - [x] Neue Sachen anschauen
