@@ -25,18 +25,17 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 Hoffentlich das ich mich mit der Proggrammiersprache sehr gut auskenne oder mit guten Noten.
 
+
+## 17.10.2025
 ## Feinplanung
 Heute Will ich passend zum Thema für die Prüfung über die Grundlagen von C# üben. Vorallem das Programmieren von Codes in Kombination mit den Verschiednen Funktionen und Methoden 
 und so weiter.
 
-
-## 17.10.2025
 ## Reflexion:
 Habe ich vieles machen können. In C# habe ich im Modul 319 nochmal alle Mission angeschaut und dazu auch gleich zum üben codes geschrieben.
 Ich habe mit nochmal PPP angeschaut und durchgelesen um nochmal alles wissen aufzufrischen. Ich habe auch Youtube Videos geschaut weil
 mir dir erklärung von der PPP manchmal nicht gereicht haben. Ich habe Vieles schon angeschaut aber so bei eine zwei Themen bin ich bin zwar noch unsicher
 aber das kann ich mir dann auch zuhause anschauen aber an sonsten ist alles so weit so gut.
-
 
 ## Planung 24.10.2025
 3 bis 5 klar messbare Arbeitspakete.
