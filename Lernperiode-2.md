@@ -60,5 +60,21 @@ noch nicht ganz verstanden aber, werden sicher noch an der BBB alles sicher noch
 
 ## Planung 31.10.2025
 3 bis 5 klar messbare Arbeitspakete:
-- [ ] Wenn wir das neue Modul angefangen haben daran weiterarbeiten.
-- [ ] An der Website weiter arbeiten
+- [x] Wenn wir das neue Modul angefangen haben daran weiterarbeiten.
+- [x] An der Website weiter arbeiten
+
+
+## 31.10.2025
+## Feinplanung 
+Heute will ich am neuen Modul 162 weiterabeiten dass wir am Dienstag diese Woche angefangen haben. Und dann am IMS-Projekt weiterarbeiten.
+
+## Reflexion
+Heute habe ich die zwei Arbeitsaufträge vom Modul 162 fertig gebracht da ich das letzte mal nicht ganz fertig wurde. Dannach habe ich die Anforderungsanalyse vom IMS-Projekt fertig gemacht und habe dann auch noch die Bestätigungs E-mail an Frau Bircher geschickt da sie in unserem Projekt unsere Kundin ist.
+Später hatte ich noch etwas Zeit habe auf der Website vom letzten mal etwas weiter geübt, da ich das Wissen brauche nacher bei der Verwirklichung des Projektes.
+
+## Planung 07.10.2025
+3 bis 5 klar messbare Arbeitspakete:
+- [ ] Aufträge bei dennen ich noch nicht fertig bin fertigstellen.
+- [ ] Das Projekt Programmieren mit Zeenia
+- [ ] Vielleicht die PPP des Projektes schon anfangen
+
