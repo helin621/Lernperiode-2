@@ -27,27 +27,21 @@ und so weiter.
 
 
 ## 17.10.2025
-Reflexion: Heute habe ich …, das ist gut gelaufen, das waren die Probleme und so habe ich sie gelöst, das muss ich mir merken, so wäre ich besser vorgegangen, ... (50-100 Wörter)
-Heute konnte ich mir einen guten Überblick über alles was ich bei der Prüfung wissen muss geschaffen. Ich habe mir dies einzelnen 
-Mission angeschaut um nochmal Videos angeschaut um die ganzen Grundlagen zu verstehen. Später habe ich das ganze dann auch umgesetzt und
-habe angefangen codes Zusschreiben. Insgesamt habe ich heute sehr gut gearbeitet, Fragen die ich hatte habe ich mehr oder weniger
-noch klären Können.
+## Reflexion:
+Habe ich vieles machen können. In C# habe ich im Modul 319 nochmal alle Mission angeschaut und dazu auch gleich zum üben codes geschrieben.
+Ich habe mit nochmal PPP angeschaut und durchgelesen um nochmal alles wissen aufzufrischen. Ich habe auch Youtube Videos geschaut weil
+mir dir erklärung von der PPP manchmal nicht gereicht haben. Ich habe Vieles schon angeschaut aber so bei eine zwei Themen bin ich bin zwar noch unsicher
+aber das kann ich mir dann auch zuhause anschauen aber an sonsten ist alles so weit so gut.
+
 
 ## Planung 24.10.2025
 3 bis 5 klar messbare Arbeitspakete.
+- [x] C# unklare sachen nochmal üben
+- [x] Codes üben entsprechend
+- [x] Neue Sachen anschauen
 
-- [ ] C# unklare sachen nochmal üben
-- [ ] Codes üben entsprechend
-- [ ] Neue Sachen anschauen
 
-(Heute habe ich... (50-100 Wörter))
-Habe ich vieles machen können. In C# habe ich im Modul 319 nochmal alle Mission angeschaut und dazu auch gleich zum üben codes geschrieben.
-Ich habe mit nochmal PPP angeschaut und durchgelesen um nochmal alles wissen aufzufrischen. Ich habe auch Youtube Videos geschaut weil
-mir dir erklärung von der PPP manchmal nicht gereicht haben. Ich habe Vieles schon angeschaut aber so bei eine zwei Themen bin ihc bin zwar noch unsicher
-aber das kann ich mir dann auch zuhause anschauen aber an sonsten ist alles so weit so gut.
-
-24.10.2025
-
+## 24.10.2025
 ## Feinplanung 
 Heute will ich auf einer Website die ich das letzte mal gefunden habe, die C# von grund auf lehrt dran weiterarbeiten.
 
