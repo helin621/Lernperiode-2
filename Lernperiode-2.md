@@ -27,7 +27,7 @@ Hoffentlich das ich mich mit der Proggrammiersprache sehr gut auskenne oder mit 
 
 
 ## 17.10.2025
-## Feinplanung
+ Feinplanung
 Heute Will ich passend zum Thema für die Prüfung über die Grundlagen von C# üben. Vorallem das Programmieren von Codes in Kombination mit den Verschiednen Funktionen und Methoden 
 und so weiter.
 
