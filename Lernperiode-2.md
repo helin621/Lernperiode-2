@@ -75,7 +75,7 @@ Später hatte ich noch etwas Zeit habe auf der Website vom letzten mal etwas wei
 3 bis 5 klar messbare Arbeitspakete:
 - [x] Aufträge bei dennen ich noch nicht fertig bin fertigstellen.
 - [x] Das Projekt Programmieren mit Zeenia
-- [] Vielleicht die PPP des Projektes schon anfangen
+- [ ] Vielleicht die PPP des Projektes schon anfangen
 
 
 ## 07.11.2025
