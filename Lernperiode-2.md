@@ -87,8 +87,8 @@ Heute habe ich an den Auftragen vom Modul 162 fertig erarbeitet. Später haben Z
 
 ## Planung 14.11.2025
 3 bis 5 klar messbare Arbeitspakete:
-- [] Aufträge die ich im Unterricht nicht fertig lösen konnte fertigstellen
-- [] PPP mit Zeenia machen
+- [ ] Aufträge die ich im Unterricht nicht fertig lösen konnte fertigstellen
+- [ ] PPP mit Zeenia machen
 
 
 
