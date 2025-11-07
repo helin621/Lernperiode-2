@@ -73,14 +73,23 @@ Später hatte ich noch etwas Zeit habe auf der Website vom letzten mal etwas wei
 
 ## Planung 07.10.2025
 3 bis 5 klar messbare Arbeitspakete:
-- [ ] Aufträge bei dennen ich noch nicht fertig bin fertigstellen.
-- [ ] Das Projekt Programmieren mit Zeenia
-- [ ] Vielleicht die PPP des Projektes schon anfangen
+- [x] Aufträge bei dennen ich noch nicht fertig bin fertigstellen.
+- [x] Das Projekt Programmieren mit Zeenia
+- [] Vielleicht die PPP des Projektes schon anfangen
 
 
 ## 07.11.2025
 ## Feinplanung 
 Heute will ich meine Aufgaben die ich für den heutigen Tag geplant habe machen, Also erstmal am Modul 162 noch ein zwei Dokumente die ich bearbeiten muss. Und dann mit dem Programmieren mit Zeenia anfangen wenn dann noch Zeit übrig bleibt dann die Präsentation anfangen.
+
+## Reflexion
+Heute habe ich an den Auftragen vom Modul 162 fertig erarbeitet. Später haben Zeenia und ich nochmal die Grundlagen von C# angeschaut. Die PPP haben wir noch nicht angefangen. Aber das würden wir dann das nächste mal noch machen. Damit wir dann noch üben können das ganze zu Präsentieren.
+
+## Planung 14.11.2025
+3 bis 5 klar messbare Arbeitspakete:
+- [] Aufträge die ich im Unterricht nicht fertig lösen konnte fertigstellen
+- [] PPP mit Zeenia machen
+
 
 
 
