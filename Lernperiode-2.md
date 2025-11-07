@@ -77,3 +77,10 @@ Später hatte ich noch etwas Zeit habe auf der Website vom letzten mal etwas wei
 - [ ] Das Projekt Programmieren mit Zeenia
 - [ ] Vielleicht die PPP des Projektes schon anfangen
 
+
+## 07.11.2025
+## Feinplanung 
+Heute will ich meine Aufgaben die ich für den heutigen Tag geplant habe machen, Also erstmal am Modul 162 noch ein zwei Dokumente die ich bearbeiten muss. Und dann mit dem Programmieren mit Zeenia anfangen wenn dann noch Zeit übrig bleibt dann die Präsentation anfangen.
+
+
+
