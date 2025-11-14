@@ -87,12 +87,24 @@ Heute habe ich an den Auftragen vom Modul 162 fertig erarbeitet. Später haben Z
 
 ## Planung 14.11.2025
 3 bis 5 klar messbare Arbeitspakete:
-- [ ] Aufträge die ich im Unterricht nicht fertig lösen konnte fertigstellen
-- [ ] PPP mit Zeenia machen
+- [x] Aufträge die ich im Unterricht nicht fertig lösen konnte fertigstellen (1734, 1735)
+- [x] PPP mit Zeenia machen
+
 
 ## Noten
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Ich habe im Modul 431 eine 5 bekommen und im Modul 319 4, ich bin also gerade auf einer 4.5. Mein Ziel ist es beim nächsten Modul 5 oder drüber zu holen damit ich im Schnitt höher komme es wär nämlich schon mein ziel auf eine fünf oderhöher zu kommen.
+Ich habe im Modul 431 eine 5 bekommen und im Modul 319 4, ich bin also gerade auf einer 4.5. Mein Ziel ist es beim nächsten Modul 5 oder drüber zu holen damit ich im Schnitt höher komme es wär nämlich schon mein ziel auf eine fünf oder höher zu kommen.
 
+## 14.11.2025
+## Feinplanung 
+Heute habe ich die Dokumente vom Modul 162 noch zu fertigstellen (1734, 1735). Dannach mit Zeenia den Code und die PPP Präsentation anfangen. Wenn ich noch Zeit habe dann an der Website von C# weiterarbeiten.
+
+## Reflexion
+Heute habe ich schnell und effizient arbeiten können weil die Dokumentationen fertiggestellt habe. Ich habe mit Zeenia zusammen den Code angefangen und auch schon 2 Testfallspezifikationen geschrieben, wir waren zwar ein paar mal laut aber sonst kamen wir sehr gut voran. Während dem Code schreiben haben wir auch neue Sachen gelernt -> Hilfe von YouTube, Und den Missionen Aufträgen des vorherigen Modul. Die PPP haben wir auch schon angefangen zwar noch nicht fertig aber das können wir dann noch im Unterricht machen sodass wir das nächste Mal im Lernatelier üben und das Programm fertig stellen.
+
+## Planung 21.11.2025
+3 bis 5 klar messbare Arbeitspakete:
+- [ ] PPP mit Zeenia üben
+- [ ] Code vom IMS-Projekt fertig stellen
 
 
