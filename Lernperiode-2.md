@@ -90,6 +90,9 @@ Heute habe ich an den Auftragen vom Modul 162 fertig erarbeitet. Später haben Z
 - [ ] Aufträge die ich im Unterricht nicht fertig lösen konnte fertigstellen
 - [ ] PPP mit Zeenia machen
 
+### Noten
+Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Ich habe im Modul 431 eine 5 bekommen und im Modul 319 4, ich bin also gerade auf einer 4.5. Mein Ziel ist es beim nächsten Modul 5 oder drüber zu holen damit ich im Schnitt höher komme es wär nämlich schon mein ziel auf eine fünf oderhöher zu kommen.
 
 
 
