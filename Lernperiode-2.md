@@ -104,7 +104,22 @@ Heute habe ich schnell und effizient arbeiten können weil die Dokumentationen f
 
 ## Planung 21.11.2025
 3 bis 5 klar messbare Arbeitspakete:
+- [X] PPP mit Zeenia üben
+- [X] Code vom IMS-Projekt fertig stellen
+
+## 21.11.2025
+## Feinplanung 
+Heute habe ich vor mit Zeenia die PPP durch zugehen nachdem wir die PPP fertiggestellt haben. Dannach noch den Code fertigstellen und korrigieren.
+
+## Reflexion
+Heute haben Zeenia und ich sehr viel an unserem Projekt gearbeitet, es hat auch sehr viel Spass gemacht und das wichtigste wir sind auch mit der PPP fertig geworden und ganz wenig mit dem üben angefangen. Wir haben auch die anderen Dokumente wie das PAP, Testfallspezifikationen und die Anforderungsanalyse alles abgegeben. Jetz müssen dann das nächste mal im Unterricht den Skript schreiben und dann wenn wir noch Zeit haben auch dann noch üben. Wenn wir keine Zeit mehr zum pben haben machen wir es dann in den nächsten Lernatelier Lektionen.
+
+## Planung 28.11.2025
+3 bis 5 klar messbare Arbeitspakete:
 - [ ] PPP mit Zeenia üben
-- [ ] Code vom IMS-Projekt fertig stellen
+- [ ] Dokumente die ich im Unterricht noch nicht fertigestellt habe fertig bringen.
+- [ ] Für den Modul 162 Test vorbereiten.
+
+
 
 
