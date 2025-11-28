@@ -116,9 +116,21 @@ Heute haben Zeenia und ich sehr viel an unserem Projekt gearbeitet, es hat auch 
 
 ## Planung 28.11.2025
 3 bis 5 klar messbare Arbeitspakete:
+- [x] Dokumente die ich im Unterricht noch nicht fertigestellt habe fertig bringen.
+- [x] Für den Modul 162 Test vorbereiten.
+
+
+## 28.11.2025
+## Feinplanung 
+Heute muss ich die Dokumente die wir im Unterricht das letzte mal fertig bringen mussten fertig bringen und dann nochmal unsere PPP für nächste Woche Mittwoch üben.
+
+## Reflexion
+Heute habe ich an den Dokumenten 1733, 6946 und 6861 zur Normalisierung gearbeitet. Ich bin die Powerpoint und alles durch gegangen und dann die Dokumente gelöst. Also heute habe ich vertiefer in die Beziehungen zwischen Entities gearbeitet. Ich habe im grossen und ganzen sehr effizient gearbeitet. Ich habe dann noch bischen die Vorherigen Dokumente vom Modul 162 durchgegangen für die Prüfung in zwei wochen.
+
+## Planung 05.12.2025
+3 bis 5 klar messbare Arbeitspakete:
 - [ ] Dokumente die ich im Unterricht noch nicht fertigestellt habe fertig bringen.
-- [ ] Für den Modul 162 Test vorbereiten.
-
-
+- [ ] Test Vorbereitung Modul 162
+- [ ] Clipboard erstellen 
 
 
