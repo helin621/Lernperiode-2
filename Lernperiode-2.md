@@ -26,6 +26,7 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 Hoffentlich das ich mich mit der Proggrammiersprache sehr gut auskenne oder mit guten Noten.
 
 
+
 ## 17.10.2025
 ## Feinplanung
 Heute Will ich passend zum Thema für die Prüfung über die Grundlagen von C# üben. Vorallem das Programmieren von Codes in Kombination mit den Verschiednen Funktionen und Methoden 
@@ -39,10 +40,10 @@ aber das kann ich mir dann auch zuhause anschauen aber an sonsten ist alles so w
 
 ## Planung 24.10.2025
 3 bis 5 klar messbare Arbeitspakete.
-
 - [x] C# unklare sachen nochmal üben
 - [x] Codes üben entsprechend
 - [x] Neue Sachen anschauen
+      
 
 
 ## 24.10.2025
@@ -61,6 +62,7 @@ noch nicht ganz verstanden aber, werden sicher noch an der BBB alles sicher noch
 3 bis 5 klar messbare Arbeitspakete:
 - [x] Wenn wir das neue Modul angefangen haben daran weiterarbeiten.
 - [x] An der Website weiter arbeiten
+      
 
 
 ## 31.10.2025
@@ -76,6 +78,7 @@ Später hatte ich noch etwas Zeit habe auf der Website vom letzten mal etwas wei
 - [x] Aufträge bei dennen ich noch nicht fertig bin fertigstellen.
 - [x] Das Projekt Programmieren mit Zeenia
 - [ ] Vielleicht die PPP des Projektes schon anfangen
+      
 
 
 ## 07.11.2025
@@ -95,6 +98,7 @@ Heute habe ich an den Auftragen vom Modul 162 fertig erarbeitet. Später haben Z
 Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
 Ich habe im Modul 431 eine 5 bekommen und im Modul 319 4, ich bin also gerade auf einer 4.5. Mein Ziel ist es beim nächsten Modul 5 oder drüber zu holen damit ich im Schnitt höher komme es wär nämlich schon mein ziel auf eine fünf oder höher zu kommen.
 
+
 ## 14.11.2025
 ## Feinplanung 
 Heute habe ich die Dokumente vom Modul 162 noch zu fertigstellen (1734, 1735). Dannach mit Zeenia den Code und die PPP Präsentation anfangen. Wenn ich noch Zeit habe dann an der Website von C# weiterarbeiten.
@@ -106,6 +110,8 @@ Heute habe ich schnell und effizient arbeiten können weil die Dokumentationen f
 3 bis 5 klar messbare Arbeitspakete:
 - [X] PPP mit Zeenia üben
 - [ ] Code vom IMS-Projekt fertig stellen
+
+      
 
 ## 21.11.2025
 ## Feinplanung 
@@ -119,6 +125,7 @@ Heute haben Zeenia und ich sehr viel an unserem Projekt gearbeitet, es hat auch 
 - [x] Dokumente die ich im Unterricht noch nicht fertigestellt habe fertig bringen.
 - [x] Für den Modul 162 Test vorbereiten.
 
+      
 
 ## 28.11.2025
 ## Feinplanung 
@@ -131,6 +138,9 @@ Heute habe ich an den Dokumenten 1733, 6946 und 6861 zur Normalisierung gearbeit
 3 bis 5 klar messbare Arbeitspakete:
 - [ ] Dokumente die ich im Unterricht noch nicht fertigestellt habe fertig bringen.
 - [ ] Test Vorbereitung Modul 162
-- [ ] Clipboard erstellen 
+- [ ] Clipboard erstellen
+
+
+
 
 
