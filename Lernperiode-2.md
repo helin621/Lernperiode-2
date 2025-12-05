@@ -141,6 +141,16 @@ Heute habe ich an den Dokumenten 1733, 6946 und 6861 zur Normalisierung gearbeit
 - [ ] Clipboard erstellen
 
 
+## 05.12.2025
+## Feinplanung 
+Heute habe ich vor die OBA zum Modul 162 zu machen.
+
+## Reflexion
+Heute habe ich mit der OBA des Modul 162 angefangen bin zwar noch nicht ganz fertig damit aber ist eigentlich nicht mehr was grosses was ich daran noch ändern muss. Ich habe mir die einzelenen kriterien angeschaut wie die OBA aufgebaut werden muss und habe mich anhand dem orientieren lassen. Ich habe das Thema Sicherheits gefühl gewählt und die verschiedenen varriationen zum verschiedenen Alter gelernt. Ich konnte im grossen und ganzen eine gute Arbeit leisten können, ich bin sehr schnell vorwärts gekommen und hatte sehr viel Spass dabei:)
+
+## Planung 14.12.2025
+3 bis 5 klar messbare Arbeitspakete:
+- [ ] Neues Modul 117 alle abgaben abgeben
 
 
 
