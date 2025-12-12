@@ -150,7 +150,17 @@ Heute habe ich mit der OBA des Modul 162 angefangen bin zwar noch nicht ganz fer
 
 ## Planung 14.12.2025
 3 bis 5 klar messbare Arbeitspakete:
-- [ ] Neues Modul 117 alle abgaben abgeben
+- [x] Neues Modul 117 alle abgaben abgeben
 
 
+## 12.12.2025
+## Feinplanung 
+Heute muss ich die Dokumente 1704, 1705 bearbeiten dann wenn ich noch Zeit habe später dann noch das zweite Handlungsziel anfangen.
 
+## Reflexion
+Heute habe ich die Dokumente aus dem Modul 117 bearbeitet. Beim ersten ging es um IPv4 Adressierung, Ich habe den bearbeitet und dann den Test auf Moodle gemacht. Später habe ich das Dokument 1705 bearbeitet bei dem es um die IPv4 Konfiguration ging, bei dem ich auch den Test auf Moodle dann gemacht habe. Später hatte ich noch einbischen Zeit und habe mir wieder einbischen C# angeschaut auf der Website bei dem man C# erlernen kann. Heute habe ich rund ums Thema IPv4 alles einzeln verstehen können, liegt warscheinlich auch daran das der Input von Frau Dillier letzen Mittwoch mir sehr geholfen hat die Dokumente zu bearbeiten, ansonsten hätte ich sehr viele Schwierigkeiten gehabt. Ich bin Heute relativ gut voran gekommen und bin jetzt wieder im Plan drinnen die Frau Dillier erstellt hatte damit man nicht so viel aufeinmal machen muss.
+
+## Planung 19.12.2025
+3 bis 5 klar messbare Arbeitspakete:
+- [ ] Modul 117 weiter arbeiten an dem was ich ich nicht fertig gekommen bin.
+      
