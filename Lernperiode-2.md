@@ -164,3 +164,9 @@ Heute habe ich die Dokumente aus dem Modul 117 bearbeitet. Beim ersten ging es u
 3 bis 5 klar messbare Arbeitspakete:
 - [ ] Modul 117 weiter arbeiten an dem was ich ich nicht fertig gekommen bin.
       
+## 19.12.2025
+## Feinplanung 
+Heute muss ich die Dokumente 1706 bis 1710 bearbeiten da ich in den Unterichtslektionen nicht ganz so weit gekommen bin.
+
+## Reflexion
+Heute habe ich die Dokumente 1706 bis 1708 fertig bearbeitet. Die Nachweise muss ich noch machen. Ich habe viel über Repeater, Switch und Router gelernt und verstehe jetzt besser, wie ein Netzwerk aufgebaut ist. Ausserdem habe ich das ISO-OSI-Modell kennengelernt und weiss jetzt, wofür die einzelnen Schichten da sind. Auch die Internetzugangsarten waren interessant. Insgesamt war die Arbeit gut und ich bin zufrieden.
